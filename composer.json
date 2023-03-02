@@ -1,4 +1,6 @@
 {
+  "name": "simple/state-machine-php",
+  "description": "Simple State Machine in PHP",
   "type": "project",
   "license": "MIT",
   "minimum-stability": "stable",
